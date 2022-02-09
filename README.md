@@ -2,7 +2,8 @@
 
 Her!
 
-[Uploading 68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966.gif
+![hw](https://user-images.githubusercontent.com/58128739/153150487-574cc029-fb84-435d-a4de-93b1254216af.gif)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
