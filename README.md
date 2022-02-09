@@ -3,17 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Kabir Singh aka Tech Boy Gaming, </div>  
+### <div align="center">My name is Artyom, for many my nickname is NightCet.</div>  
   
 
-- 🔭 I’m currently Coding AN Music Bot and Multi Purpose Bot
+- 🔭 I'm currently coding based on machine learning.
   
 
-- 🌱 I’m currently coding in Javascript   and CSS and HTML..
+- 🌱 I am currently coding in Javascript, CSS HTML, Php, Python .
   
 
-- ❓  I am in love with coding Discord Bots, I also love helping!.
-  
+- ❓ I like programming, it's my old hobby and my job.
 
   
 
