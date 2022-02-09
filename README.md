@@ -54,36 +54,3 @@
 
 <br/>  
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/KabirJaipal" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ" target="_blank">
-<img src=https://img.shields.io/badge/Website-%2308090A.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://discord.com/invite/PcUVWApWN3" target="_blank">
-<img src=https://img.shields.io/badge/DiscordServer-%23F28032.svg?&style=for-the-badge&logo=DiscordServer&logoColor=white alt=DiscordServer style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kabirsingh2004&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<p><a href="https://github.com/KabirJaipal"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirsingh2004&amp;layout=compact" alt="Top Langs"></a></p></div>  
-  
-
-![](https://avatars.githubusercontent.com/u/73753258?v=4)
-
-## [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/EMR5Bf6CwH)
-## [**Youtube Channel Link**](https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ)
-
-# SUPPORT ME
-
